@@ -1,113 +1,70 @@
-# README.md
+# Hey, I'm Nick 👋
 
-# Hi, I'm Nick 👋
+**I like building things that make complicated problems feel simple.**
 
-I build high-leverage products at the intersection of **AI, data platforms, and complex systems**.
+I'm a data and solutions engineer with a background in product development, data science, and enterprise technology. I enjoy exploring what's possible with modern engineering tools, particularly when AI, data, and thoughtful product design come together.
 
-Most of my work is hands-on: shaping product strategy, simplifying messy systems, and partnering deeply with engineers to ship scalable solutions in real-world, high-stakes environments.
+This GitHub is my space to **experiment, prototype, learn in public, and turn ideas into working software**.
 
----
+Some projects start with a real problem. Others start with curiosity about a new framework, API, or approach. Usually, the fun is figuring out how to make the pieces work together.
 
-## 🚀 What I’m Focused On
+## 🔨 What I'm Building & Exploring
 
-- 🧠 **AI + Product Systems**: Agent workflows, LLM-enabled products, and applied AI in enterprise environments  
-- 🏗️ **Platform Products**: Designing systems that scale across teams, stakeholders, and integrations  
-- 🔗 **Data & Integration Simplification**: Reducing complexity across deeply connected ecosystems  
-- ⚙️ **Developer-Centric Product Thinking**: APIs as products, clean abstractions, and system usability  
-- 📈 **Outcome-Driven Execution**: Shipping measurable improvements (speed, quality, cost, risk)
+- **Agentic Engineering** — AI-assisted development, autonomous workflows, multi-agent systems, and evaluation frameworks.
+- **Full-Stack Applications** — Building intuitive, data-driven experiences from backend architecture through frontend interaction.
+- **Data Engineering** — Pipelines, integrations, APIs, data models, and reusable infrastructure.
+- **Applied AI & ML** — Experimenting with intelligent systems that augment human capabilities.
+- **Developer Tooling** — Exploring ways to build, test, ship, and iterate more effectively.
 
----
+## 🚀 Projects & Experiments
 
-## 💼 Experience
+A few areas where I've been putting ideas into practice:
 
-### **Senior Digital Product Manager**  
-**Mayo Clinic — Research Digital Innovation** | Remote  
-_Oct 2022 — Present_
+| Project | What I'm Exploring |
+|---|---|
+| **Travel Planning Platform** | Interactive maps, itinerary generation, location data, and full-stack application development |
+| **Athletic Performance App** | Performance tracking, analytics, data visualization, and responsive application design |
+| **Agentic Engineering Harness** | Agent orchestration, structured reasoning workflows, validation, and evaluation |
+| **Scheduling & Booking Platform** | Multi-step user experiences, application architecture, and workflow automation |
 
-- Own product strategy and delivery for a next-gen enterprise clinical trial platform  
-- Reduced study activation timelines by **7.5 weeks (25%)**  
-- Simplified core data models by **49%**, improving data quality by **65%**  
+*Some repositories are active builds, others are prototypes or experiments. I use this space to document the process as much as the finished product.*
 
----
+## 🧰 Tools I Reach For
 
-### **Lead Business Intelligence Analyst**  
-**Mayo Clinic — Strategy BI** | Remote  
-_Oct 2021 — Oct 2022_
+**Languages & Frameworks**  
+`Python` `SQL` `TypeScript` `JavaScript` `React` `Vite` `Flask` `HTML/CSS`
 
-- Eliminated **100+ duplicative analytics assets** across Tableau, PowerBI, SAS, SSRS  
-- Rebuilt executive analytics platform with automated daily insights  
-- Developed Python-based tracking for Epic build lifecycle (Azure DevOps integration)
+**Data & Infrastructure**  
+`PostgreSQL` `BigQuery` `Supabase` `Neon` `AWS` `GCP` `REST APIs` `Vercel`
 
----
+**AI & Development**  
+`Claude Code` `Codex` `Cursor` `ChatGPT` `Gemini` `GitHub`
 
-### **Technical Business Analyst**  
-**Mayo Clinic — Research Systems** | Remote  
-_Feb 2020 — Oct 2021_
+**Design & Collaboration**  
+`Figma` `Miro` `Linear` `Notion`
 
-- Supported first mobile-accessible research workflow product  
-- Built automated ServiceNow → Tableau pipeline saving **8+ hours/month**
+## 🧠 How I Approach Building
 
----
+A few principles that keep showing up in my work:
 
-### **Customer Success Specialist**  
-**Mayo Clinic — Service Center** | Rochester, MN  
-_June 2019 — Feb 2020_
+- **Build to learn.** A working prototype can answer questions that weeks of planning cannot.
+- **Think in systems.** Reusable foundations are more valuable than isolated solutions.
+- **Keep the user close.** Good engineering should make complex things feel intuitive.
+- **Automate the repetitive.** Spend more time solving interesting problems.
+- **Stay curious.** The best solution often emerges after challenging the original assumptions.
 
-- Top performer in ticket resolution (99% accuracy)  
-- Contributed to early-stage product discovery for enterprise radiology product 
+I'm particularly interested in the evolving relationship between **human judgment, AI-assisted engineering, and increasingly autonomous software development**.
 
----
+## 🌎 A Little Beyond the Code
 
-## 🧰 Tech & Tools
+When I'm not building software, I'm usually interested in something involving national parks, travel, golf, strength training, or quantitative finance.
 
-**Languages**  
-`Python` • `SQL (Postgres, MS SQL, Oracle)`
+Many of my personal projects originate from these interests. I enjoy building tools that I would genuinely want to use.
 
-**Product & Dev Stack**  
-`React` • `Vite` • `Supabase` • `Neon` • `Vercel` • `GitHub`
+## 🤝 Let's Connect
 
-**Analytics & Data**  
-`Tableau` • `PowerBI` • `BigQuery` • `Collibra`
+Always interested in exchanging ideas, exploring interesting repositories, and collaborating with people building useful things.
 
-**Workflow & Design**  
-`Figma` • `Miro` • `Notion` • `Linear` • `Cursor`
+[**LinkedIn**](https://www.linkedin.com/in/nicklaus-hanson-458782102/)
 
----
-
-## 🧠 How I Think
-
-- Systems > features  
-- Speed with integrity > speed alone  
-- Simplicity is a competitive advantage  
-- Great products reduce cognitive load  
-- The best PMs are builders  
-
----
-
-## 📚 Education
-
-**Drexel University**  
-_M.S. Data Science_  
-2022 — 2024  
-
-**Augustana University**  
-_B.A. Mathematics_  
-2015 — 2019  
-
----
-
-## ⚡ Side Projects & Interests
-
-- Building AI-native products and internal tools  
-- Quantitative finance + options analytics  
-- Personal productivity systems (“Second Brain”)  
-- Health, performance, and optimization  
-
----
-
-## 🤝 Let’s Connect
-
-- Open to collaborating on **AI, product, or platform ideas**
-- Interested in **Director / Principal-level / Analyic Contributor roles (remote)**
-
----
+*Build something. Learn something. Make the next iteration better.*
