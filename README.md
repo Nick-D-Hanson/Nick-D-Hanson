@@ -1,41 +1,35 @@
-# Hey, I'm Nick 👋
+# Nick Hanson
 
-**I like building things that make complicated problems feel simple.**
+**Data & Solutions Engineer | Technical Product Builder | Applied AI & Analytics**
 
-I'm a data and solutions engineer who enjoys turning ambiguous problems into useful products, reliable data flows, and intuitive experiences. My background bridges hands-on development, applied data science, and technical product leadership.
+I turn ambiguous business problems into usable software, trustworthy data workflows, and practical decision tools. My background bridges data science, hands-on software engineering, and cross-functional product delivery in healthcare and beyond.
 
-This is my builder's workspace: working applications, quantitative experiments, engineering tradeoffs, and iterations I can explain.
+I care about the full path from **problem discovery → architecture → working product → measurable use**.
 
-## Selected builds
+## Selected projects
 
-| Project | What it demonstrates |
-|---|---|
-| **[Tandem](https://github.com/Nick-D-Hanson/Tandem)** | Shared calendar and task product with authentication, Postgres data modeling, server-side authorization, recurrence handling, and automated tests |
-| **[Tripping](https://github.com/Nick-D-Hanson/Tripping)** | Collaborative trip planning with role-based access, geospatial search, routing, maps, and a full-stack TypeScript/Next.js architecture |
-| **[March Madness Model Lab](https://github.com/Nick-D-Hanson/march-madness-model-lab)** | Reproducible matchup modeling, time-aware backtesting, transparent baselines, probability evaluation, and CI |
-| **[Box Office Profitability Lab](https://github.com/Nick-D-Hanson/box-office-profitability-lab)** | PySpark-based film data exploration, profitability classification, model comparison, and critical evaluation of limitations |
+| Project | Why it matters | Explore |
+|---|---|---|
+| **Tandem** | A shared planning product combining authenticated workspaces, calendar functionality, task scheduling, and production-grade data modeling. | [Code](https://github.com/Nick-D-Hanson/Tandem) · [Live app](https://tandem-planner.vercel.app) |
+| **Tripping** | Collaborative travel planning that brings geospatial search, routing, role-based access, and group decisions into one product. | [Code](https://github.com/Nick-D-Hanson/Tripping) · [Live app](https://tripping-azure.vercel.app) |
+| **March Madness Model Lab** | Reproducible matchup modeling with chronological evaluation, honest seed baselines, and probability metrics. | [Code](https://github.com/Nick-D-Hanson/march-madness-model-lab) |
+| **Box Office Profitability Lab** | PySpark data integration and historical movie-profitability analysis with explicit modeling limitations. | [Code](https://github.com/Nick-D-Hanson/box-office-profitability-lab) |
 
-*Projects span production-minded applications and exploratory research. I distinguish tested capabilities from work that is still being validated.*
+*The application demos require authentication. Research projects distinguish verified pipelines from historical results still to be validated.*
 
-## What I'm exploring next
+## What I bring to a team
 
-- **Agent reliability and evaluation:** measurable agent behavior, tool-use correctness, tracing, and failure analysis.
-- **Data and analytics platforms:** repeatable ingestion, modeled data layers, orchestration, and observable pipelines.
-- **Decision products:** translating complex data and operational constraints into practical software. Public examples use synthetic or appropriately licensed data.
+- **Builder mindset:** Develop solutions across data models, APIs, business logic, and user experience rather than stopping at a prototype.
+- **Data and decision architecture:** Structure complex inputs so people can act on consistent, interpretable information.
+- **Product judgment:** Translate stakeholder needs into scoped capabilities and iterative delivery.
+- **Engineering discipline:** Document assumptions, authorization boundaries, quality checks, and limitations.
 
-## How I approach engineering
+**Technologies:** Python · SQL · TypeScript · React/Next.js · PostgreSQL/Neon · BigQuery · PySpark · REST APIs · Vercel · GitHub
 
-- **Start with the user and the decision.** Define what success looks like before selecting technologies.
-- **Build end to end.** Connect data models, APIs, application behavior, and the human experience.
-- **Make quality visible.** Document assumptions, tests, limitations, and what I would change at enterprise scale.
-- **Iterate in public.** Prototypes are learning instruments; the goal is to turn useful ones into trustworthy systems.
+## Current interests
 
-### Tools I use
-
-Python · SQL · TypeScript · React · Next.js · PostgreSQL · BigQuery · REST APIs · PySpark · Vercel · Neon · GitHub
+Agent evaluation and reliability; observable analytics pipelines; and decision-support products using public or synthetic data. I am especially interested in work that connects measurable operational value with responsible engineering.
 
 Outside of software, I enjoy national parks, travel, golf, strength training, and quantitative finance. Some of my best project ideas begin there.
 
 **[Connect on LinkedIn](https://www.linkedin.com/in/nicklaus-hanson-458782102/)**
-
-*Build something. Learn something. Make the next iteration better.*
