@@ -13,7 +13,7 @@ This is my builder's workspace: working applications, quantitative experiments, 
 | **[Tandem](https://github.com/Nick-D-Hanson/Tandem)** | Shared calendar and task product with authentication, Postgres data modeling, server-side authorization, recurrence handling, and automated tests |
 | **[Tripping](https://github.com/Nick-D-Hanson/Tripping)** | Collaborative trip planning with role-based access, geospatial search, routing, maps, and a full-stack TypeScript/Next.js architecture |
 | **[March Madness Model Lab](https://github.com/Nick-D-Hanson/march-madness-model-lab)** | Reproducible matchup modeling, time-aware backtesting, transparent baselines, probability evaluation, and CI |
-| **[Box Office Profitability Lab](https://github.com/Nick-D-Hanson/DSCI592-Capstone)** | PySpark-based film data exploration, profitability classification, model comparison, and critical evaluation of limitations |
+| **[Box Office Profitability Lab](https://github.com/Nick-D-Hanson/box-office-profitability-lab)** | PySpark-based film data exploration, profitability classification, model comparison, and critical evaluation of limitations |
 
 *Projects span production-minded applications and exploratory research. I distinguish tested capabilities from work that is still being validated.*
 
