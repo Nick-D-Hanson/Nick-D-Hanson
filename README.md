@@ -2,69 +2,40 @@
 
 **I like building things that make complicated problems feel simple.**
 
-I'm a data and solutions engineer with a background in product development, data science, and enterprise technology. I enjoy exploring what's possible with modern engineering tools, particularly when AI, data, and thoughtful product design come together.
+I'm a data and solutions engineer who enjoys turning ambiguous problems into useful products, reliable data flows, and intuitive experiences. My background bridges hands-on development, applied data science, and technical product leadership.
 
-This GitHub is my space to **experiment, prototype, learn in public, and turn ideas into working software**.
+This is my builder's workspace: working applications, quantitative experiments, engineering tradeoffs, and iterations I can explain.
 
-Some projects start with a real problem. Others start with curiosity about a new framework, API, or approach. Usually, the fun is figuring out how to make the pieces work together.
+## Selected builds
 
-## 🔨 What I'm Building & Exploring
-
-- **Agentic Engineering** — AI-assisted development, autonomous workflows, multi-agent systems, and evaluation frameworks.
-- **Full-Stack Applications** — Building intuitive, data-driven experiences from backend architecture through frontend interaction.
-- **Data Engineering** — Pipelines, integrations, APIs, data models, and reusable infrastructure.
-- **Applied AI & ML** — Experimenting with intelligent systems that augment human capabilities.
-- **Developer Tooling** — Exploring ways to build, test, ship, and iterate more effectively.
-
-## 🚀 Projects & Experiments
-
-A few areas where I've been putting ideas into practice:
-
-| Project | What I'm Exploring |
+| Project | What it demonstrates |
 |---|---|
-| **Travel Planning Platform** | Interactive maps, itinerary generation, location data, and full-stack application development |
-| **Athletic Performance App** | Performance tracking, analytics, data visualization, and responsive application design |
-| **Agentic Engineering Harness** | Agent orchestration, structured reasoning workflows, validation, and evaluation |
-| **Scheduling & Booking Platform** | Multi-step user experiences, application architecture, and workflow automation |
+| **[Tandem](https://github.com/Nick-D-Hanson/Tandem)** | Shared calendar and task product with authentication, Postgres data modeling, server-side authorization, recurrence handling, and automated tests |
+| **[Tripping](https://github.com/Nick-D-Hanson/Tripping)** | Collaborative trip planning with role-based access, geospatial search, routing, maps, and a full-stack TypeScript/Next.js architecture |
+| **[March Madness Model Lab](https://github.com/Nick-D-Hanson/march-madness-model-lab)** | Reproducible matchup modeling, time-aware backtesting, transparent baselines, probability evaluation, and CI |
+| **[Box Office Profitability Lab](https://github.com/Nick-D-Hanson/box-office-profitability-lab)** | PySpark-based film data exploration, profitability classification, model comparison, and critical evaluation of limitations |
 
-*Some repositories are active builds, others are prototypes or experiments. I use this space to document the process as much as the finished product.*
+*Projects span production-minded applications and exploratory research. I distinguish tested capabilities from work that is still being validated.*
 
-## 🧰 Tools I Reach For
+## What I'm exploring next
 
-**Languages & Frameworks**  
-`Python` `SQL` `TypeScript` `JavaScript` `React` `Vite` `Flask` `HTML/CSS`
+- **Agent reliability and evaluation:** measurable agent behavior, tool-use correctness, tracing, and failure analysis.
+- **Data and analytics platforms:** repeatable ingestion, modeled data layers, orchestration, and observable pipelines.
+- **Decision products:** translating complex data and operational constraints into practical software. Public examples use synthetic or appropriately licensed data.
 
-**Data & Infrastructure**  
-`PostgreSQL` `BigQuery` `Supabase` `Neon` `AWS` `GCP` `REST APIs` `Vercel`
+## How I approach engineering
 
-**AI & Development**  
-`Claude Code` `Codex` `Cursor` `ChatGPT` `Gemini` `GitHub`
+- **Start with the user and the decision.** Define what success looks like before selecting technologies.
+- **Build end to end.** Connect data models, APIs, application behavior, and the human experience.
+- **Make quality visible.** Document assumptions, tests, limitations, and what I would change at enterprise scale.
+- **Iterate in public.** Prototypes are learning instruments; the goal is to turn useful ones into trustworthy systems.
 
-**Design & Collaboration**  
-`Figma` `Miro` `Linear` `Notion`
+### Tools I use
 
-## 🧠 How I Approach Building
+Python · SQL · TypeScript · React · Next.js · PostgreSQL · BigQuery · REST APIs · PySpark · Vercel · Neon · GitHub
 
-A few principles that keep showing up in my work:
+Outside of software, I enjoy national parks, travel, golf, strength training, and quantitative finance. Some of my best project ideas begin there.
 
-- **Build to learn.** A working prototype can answer questions that weeks of planning cannot.
-- **Think in systems.** Reusable foundations are more valuable than isolated solutions.
-- **Keep the user close.** Good engineering should make complex things feel intuitive.
-- **Automate the repetitive.** Spend more time solving interesting problems.
-- **Stay curious.** The best solution often emerges after challenging the original assumptions.
-
-I'm particularly interested in the evolving relationship between **human judgment, AI-assisted engineering, and increasingly autonomous software development**.
-
-## 🌎 A Little Beyond the Code
-
-When I'm not building software, I'm usually interested in something involving national parks, travel, golf, strength training, or quantitative finance.
-
-Many of my personal projects originate from these interests. I enjoy building tools that I would genuinely want to use.
-
-## 🤝 Let's Connect
-
-Always interested in exchanging ideas, exploring interesting repositories, and collaborating with people building useful things.
-
-[**LinkedIn**](https://www.linkedin.com/in/nicklaus-hanson-458782102/)
+**[Connect on LinkedIn](https://www.linkedin.com/in/nicklaus-hanson-458782102/)**
 
 *Build something. Learn something. Make the next iteration better.*
