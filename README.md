@@ -30,5 +30,6 @@ I care about the full path from **problem discovery → architecture → working
 
 Agent evaluation and reliability; observable analytics pipelines; and decision-support products using public or synthetic data. I am especially interested in work that connects measurable operational value with responsible engineering.
 
-**[Connect on LinkedIn](https://www.linkedin.com/in/nicklaus-hanson-458782102/)**
+Outside of software, I enjoy national parks, travel, golf, strength training, and quantitative finance. Some of my best project ideas begin there.
 
+**[Connect on LinkedIn](https://www.linkedin.com/in/nicklaus-hanson-458782102/)**
